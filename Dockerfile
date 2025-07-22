@@ -21,4 +21,4 @@ COPY . .
 EXPOSE 8080
 
 # Run your bot
-CMD ["python", "bot.py"]
+CMD ["python", "main.py"]
